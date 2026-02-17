@@ -1,0 +1,9 @@
+{
+  "num_leds": 50,
+  "serial_port": "COM3",
+  "color_smoothing": 0.8,
+  
+  "baud": 115200,
+  "chunk_size": 24,
+  "screen_update_interval": 0.1
+}
