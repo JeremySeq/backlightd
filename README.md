@@ -48,8 +48,6 @@ pip install -r requirements.txt
 Config for the Python script is located in `backlightd/config.json`.
 (If this does not exist, create it by copying `backlightd/config.default.json`)
 
-Changing COM port
-
 Changing number of LEDs:
 - Change in `firmware/backlightd_arduino.ino` and reupload to Arduino.
 - Change in `backlightd/config.json`
